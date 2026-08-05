@@ -1,0 +1,5 @@
+# .gitignore para proyectos web estáticos
+.DS_Store
+Thumbs.db
+*.tmp
+node_modules/
