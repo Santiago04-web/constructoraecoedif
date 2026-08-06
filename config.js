@@ -17,8 +17,8 @@ Desde nuestra fundación, nos hemos distinguido por la aplicación de metodolog�
 
   // Contacto & Ubicación Principal
   contact: {
-    phone: "+57 310 4670052",
-    phoneClean: "573104670052",
+    phone: "+57 310 5399585",
+    phoneClean: "573105399585",
     email: "constructoraecoedifsass470@gmail.com",
     address: "Carrera 63 # 49 A 31",
     city: "Medellín",
@@ -45,7 +45,7 @@ Desde nuestra fundación, nos hemos distinguido por la aplicación de metodolog�
     facebook: "https://www.facebook.com/constructoraecoedif",
     instagram: "https://www.instagram.com/constructoraecoedif",
     linkedin: "https://www.linkedin.com/company/constructoraecoedif",
-    whatsapp: "https://api.whatsapp.com/send?phone=573104670052&text=Hola,%20quisiera%20solicitar%20informaci%C3%B3n%20sobre%20sus%20servicios%20constructivos."
+    whatsapp: "https://api.whatsapp.com/send?phone=573105399585&text=Hola,%20quisiera%20solicitar%20informaci%C3%B3n%20sobre%20sus%20servicios%20constructivos."
   },
 
   // Servicios Corporativos
