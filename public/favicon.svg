@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0B192C"/>
+  <!-- Geometric Architectural Building E Monogram -->
+  <path d="M120 120H392V180H190V230H340V282H190V332H392V392H120V120Z" fill="#FFFFFF"/>
+  <path d="M340 120H392V180H340V120Z" fill="#F59E0B"/>
+  <path d="M340 230H392V282H340V230Z" fill="#F59E0B"/>
+  <path d="M340 332H392V392H340V332Z" fill="#F59E0B"/>
+  <!-- Structural accent beam -->
+  <circle cx="366" cy="150" r="12" fill="#D97706"/>
+</svg>
